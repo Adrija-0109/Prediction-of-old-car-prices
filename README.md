@@ -1,4 +1,4 @@
-# Prediction-of-old-car-price-
+# Prediction-of-old-car-price
 
 This project helps us to  predict the price of used cars with the help of data provided.
 This prediction is basically done on the basis of data provided such as:
